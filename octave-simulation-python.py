@@ -37,9 +37,7 @@ def transpose(plist):
 	#determine the length of the list, and its sub_list 
 	
 	for i in range(len(plist[0])):
-		for j in range(len(plist)
-		
-		:
+		for j in range(len(plist):
 			sub_list.append(0)
 		main_list.append(sub_list)
 		sub_list = []
